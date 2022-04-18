@@ -1,18 +1,18 @@
 {
-  "name": "name",
-  "version": "0.0.0",
+  "name": "vite-plugin-vue-component-doc",
+  "version": "0.0.1",
   "packageManager": "pnpm@6.32.3",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/derlans/[name]#readme",
+  "homepage": "https://github.com/derlans/vite-plugin-vue-component-doc#readme",
   "bugs": {
-    "url": "https://github.com/derlans/[name]/issues"
+    "url": "https://github.com/derlans/vite-plugin-vue-component-doc/issues"
   },
   "license": "MIT",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/derlans/[name].git"
+    "url": "git+https://github.com/derlans/vite-plugin-vue-component-doc.git"
   },
   "funding": "https://github.com/sponsors/derlans",
   "main": "./dist/index.cjs",
